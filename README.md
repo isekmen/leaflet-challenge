@@ -24,7 +24,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
    
 ![3-Data](https://github.com/isekmen/leaflet-challenge/assets/101214487/82ee5f8a-ce3e-44d4-9ddc-400e69751f9d)
 
-   * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+     * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
     
   ![4-JSON](https://github.com/isekmen/leaflet-challenge/assets/101214487/a9ef8c68-a8b1-450a-8c27-8b3c1587b7d5)
 
