@@ -34,9 +34,9 @@ Your first task is to visualize an earthquake dataset. Complete the following st
        * Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
        * Hint: The depth of the earth can be found as the third coordinate for each earthquake.
   
-     * Include popups that provide additional information about the earthquake when its associated marker is clicked.
-     * Create a legend that will provide context for your map data.
-     * Your visualization should look something like the preceding map.
+      * Include popups that provide additional information about the earthquake when its associated marker is clicked.
+      * Create a legend that will provide context for your map data.
+      * Your visualization should look something like the preceding map.
 
 
 ## Part 2: Gather and Plot More Data (Optional with no extra points earning)
@@ -50,10 +50,10 @@ The following image is an example screenshot of what you should produce:
 
 Perform the following tasks:
 
-  * Plot the tectonic plates dataset on the map in addition to the earthquakes.
-  * Add other base maps to choose from.
-  * Put each dataset into separate overlays that can be turned on and off independently.
-  * Add layer controls to your map.
+   * Plot the tectonic plates dataset on the map in addition to the earthquakes.
+   * Add other base maps to choose from.
+   * Put each dataset into separate overlays that can be turned on and off independently.
+   * Add layer controls to your map.
 
 # References
 Dataset created by the [United States Geological SurveyLinks] (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.phpto) an external site.
