@@ -18,8 +18,8 @@ The instructions for this activity are broken into two parts:
 ![2-BasicMap](https://github.com/isekmen/leaflet-challenge/assets/101214487/9b4aa3c9-ed41-42c7-a117-b4480b10ac9d)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
-1. Get your dataset. To do so, follow these steps:
-     
+ 1. Get your dataset. To do so, follow these steps:
+      
      * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php/) to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
    
 ![3-Data](https://github.com/isekmen/leaflet-challenge/assets/101214487/82ee5f8a-ce3e-44d4-9ddc-400e69751f9d)
